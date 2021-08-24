@@ -17,3 +17,4 @@ The start button turns the robotic arm on and performs a serial connection to th
 
 ![image](https://user-images.githubusercontent.com/73975745/130544222-92af5f03-479b-4896-b598-e5ff5a091015.png)
 
+This is the visual display of the data transmitted via the Arduino IDE onto processing 3 IDE. It displays all the sensors and the percentage of the respective gas they are measuring and displays it clearly.  The dust concentration is also displayed and the quality of air that is in the range of the dust concentration.
