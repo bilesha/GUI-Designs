@@ -12,3 +12,9 @@ This GUI was designed on the processing development environment. I chose this sp
 The gripper has a simple open and close function where the gripper will open or close based on the buttons pressed. It is important to program the gripper in a so that the gripper doesn’t continuously and forcefully keep clamping when it has an object in its grasp as this excess force on an solid object will damage the robotic arm. These open/close buttons can be changed into a slider if this proves to be a problem. The wrist and base have 360 degrees of freedom as they are capable of rotating freely due to the design. The movements on the elbow and shoulder are limited as if it was capable of too much free fall rotation, the robotic arm will have excess movement where it will hit the ground and perform too many unnecessary movements which will damage the arm. Tests will be conducted with the elbow and shoulder joints to measure the idealangle limitations and movements that are required for efficient performance.
 
 The start button turns the robotic arm on and performs a serial connection to the microcontroller. The reset button resets all the components to its original angles which are defined on the picture above.
+
+2.0
+
+****
+
+This is the visual display of the data transmitted via the Arduino IDE onto processing 3 IDE. It displays all the sensors and the percentage of the respective gas they are measuring and displays it clearly.  The dust concentration is also displayed and the quality of air that is in the range of the dust concentration.. 
